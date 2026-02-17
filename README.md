@@ -1,5 +1,3 @@
----
-
 # 💀 Hangman Game (Streamlit Edition)
 
 A fun, interactive **Hangman game** built with **Streamlit**! Guess the hidden word letter by letter before you run out of lives. Perfect for quick browser-based gaming and practising Python.
