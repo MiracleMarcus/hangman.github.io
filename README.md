@@ -32,5 +32,3 @@ streamlit run app.py
 * **Streamlit** for interactive UI
 
 ---
-
-If you want, I can also draft a **super short one-liner GitHub description** that pops on the repo page—it’ll be extra snappy for quick clicks. Do you want me to do that?
