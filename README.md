@@ -1,5 +1,3 @@
-Here’s a clean, GitHub-ready description for your repo:
-
 ---
 
 # 💀 Hangman Game (Streamlit Edition)
